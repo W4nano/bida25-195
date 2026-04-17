@@ -37,7 +37,28 @@
         </div>
         </nav>
 </header>
-
+<section class="feedback-section">
+        <div class="feedback-container">
+            <h1>SEND US FEEDBACK</h1>
+            <p class="feedback-sub">We'd love to hear what you think!</p>
+            <form id="feedbackForm">
+                <div>
+                    <label><h2>Your Name</h2></label>
+                    <input type="text" id="nameInput" class="feedback-input form-control" placeholder="Enter your name" required/>
+                </div>
+                <div>
+                    <label><h2>Your Email</h2></label>
+                    <input type="email" id="emailInput" class="feedback-input form-control" placeholder="Enter your email" required/>
+                </div>
+                <div>
+                    <label><h2>Your Feedback</h2></label>
+                    <textarea id="messageInput" class="feedback-input form-control" rows="6" placeholder="Type your feedback here..." required></textarea>
+                </div>
+                <button type="submit" class="feedback-btn">SEND FEEDBACK</button>
+                <div id="formMessage" class="form-message"></div>
+            </form>
+        </div>
+    </section>
 <footer>
     <h2>FOR MORE INFORMATION VISIT
   <a href="https://jeffnippard.com/pages/contact">
@@ -49,5 +70,6 @@
     <a class="link" href="https://www.facebook.com/jeffnippard/">
         <img src="fb.png" style="width: 40px; height: 40px;"/></a>
 </footer>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

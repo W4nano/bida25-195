@@ -1,0 +1,139 @@
+body{
+    background-color:white;
+}
+.nav-link {
+    transition: transform 0.3s ease;
+    display: inline-block;
+}
+
+.nav-link:hover {
+    transform: translateY(-3px);
+    cursor: pointer;
+}
+li{
+    text-decoration:none;
+}
+.nav-link h2{
+    color:#061013;
+    font-size:x-large;
+}
+h1{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffffff;
+    text-align: justify;
+    font-size: 60px;
+    font-weight: bolder;
+    letter-spacing: 1px; 
+    margin-bottom: 200px;
+    margin-left: 30px;
+    word-spacing: 0.0005cm;
+}
+h3{
+    color:#061013;
+    text-align: center;
+    font-size:xx-large;
+}
+h2{
+    color:#061013;
+    font-size:medium;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    width: 100%;
+    margin-top: 100px;
+}
+.box {
+    width:450px;
+    height: 450px;
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+    display: block;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.box:hover {
+    transform: translateY(-10px);
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
+.box img{
+    width: 100%;
+    height:100%;
+    object-fit: cover;
+}
+.box h2{
+    position: absolute;
+    font-size: xx-large;
+    bottom:50% ;
+    left:30%;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.video {
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+}
+.video video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.video-text {
+  position: absolute;
+  bottom: 30%;
+  color: white;
+  text-align:left;
+}
+.image-and-text{
+    width: 45%;
+    align-self:center;
+}
+.information{
+    align-self: center;
+}
+.information h2{
+    text-align: center;
+    font-style: italic;
+    font-size: x-large;
+    text-decoration: underline;
+}
+footer{
+    background-color: #ffffff;
+    color: white;
+    padding: 5px;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#backToTop {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: #061013;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    font-size: x-large;
+    cursor: pointer;
+    display: none;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    z-index: 999;
+}
+
+#backToTop:hover {
+    transform: translateY(-3px);
+    background-color: #1a3a42;
+}
+
+
+
+

@@ -5,7 +5,6 @@
 }
 body{
     background-color:white;
-    width: auto;
 }
 .nav-link {
     transition: transform 0.3s ease;
@@ -155,4 +154,5 @@ footer{
     .navbar-brand img {
         height: 35px;
     }
+    
 }

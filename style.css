@@ -36,7 +36,7 @@ h3{
 }
 h2{
     color:#061013;
-    font-size:medium;
+    font-size:10px;
 }
 
 .container {
@@ -73,7 +73,8 @@ h2{
     color:#ffffff;
     font-size: 40px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
-.video {
+    
+.hero-video {
   width: 100%;
   height: 600px;
   overflow: hidden;

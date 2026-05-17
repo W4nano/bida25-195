@@ -23,7 +23,6 @@
     padding: 30px;
     margin: 20px auto;
     width: 90%;
-    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
 }
 .summary {
     width: 80%;
@@ -31,7 +30,6 @@
     border-radius: 15px;
     padding: 20px 30px;
     margin-top: 20px;
-    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.08);
 }
 .muscle-card h1 {
     color: #ffffff;
@@ -115,12 +113,6 @@ footer h2{
     cursor: pointer;
     display: none;
     transition: transform 0.3s ease, background-color 0.3s ease;
-    z-index: 999;
-}
-
-#backToTop:hover {
-    transform: translateY(-3px);
-    background-color: #1a3a42;
 }
 li{
     font-size:x-large;

@@ -1,0 +1,85 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="zEyEzT-zEoQMEANrjqxb">
+    <mxGraphModel dx="1303" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="640" width="750" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="50" width="750" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LOGO/ HOME LINK" vertex="1">
+          <mxGeometry height="30" width="100" x="50" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="DIETS" vertex="1">
+          <mxGeometry height="300" width="280" x="90" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="WORKOUT LIBRARY" vertex="1">
+          <mxGeometry height="300" width="280" x="470" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CONTACT US" vertex="1">
+          <mxGeometry height="30" width="100" x="680" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FOOTER" vertex="1">
+          <mxGeometry height="60" width="750" x="40" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="600" width="750" x="40" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="50" width="750" x="40" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CONTACT US" vertex="1">
+          <mxGeometry height="30" width="100" x="680" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LOGO/ HOME LINK" vertex="1">
+          <mxGeometry height="30" width="100" x="50" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SUMMARY/&amp;nbsp; RECCOMENDATION" vertex="1">
+          <mxGeometry height="220" width="480" x="175" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FOOTER" vertex="1">
+          <mxGeometry height="60" width="750" x="40" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="VIDEO" vertex="1">
+          <mxGeometry height="220" width="480" x="174" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="WORKOUT LIBRARY" vertex="1">
+          <mxGeometry height="30" width="120" x="550" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DIET" vertex="1">
+          <mxGeometry height="30" width="70" x="470" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="760" width="750" x="39" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="WEIGHT LOSS" vertex="1">
+          <mxGeometry height="300" width="550" x="140" y="1850" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="50" width="750" x="39" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LOGO/ HOME LINK" vertex="1">
+          <mxGeometry height="30" width="100" x="49" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CONTACT US" vertex="1">
+          <mxGeometry height="30" width="100" x="679" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FOOTER" vertex="1">
+          <mxGeometry height="60" width="750" x="40" y="2090" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MUSCLE GAIN DIET" vertex="1">
+          <mxGeometry height="320" width="550" x="139" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DIET" vertex="1">
+          <mxGeometry height="30" width="70" x="470" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="AXGnnlmb7ig82gyoTzvo-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="WORKOUT LIBRARY" vertex="1">
+          <mxGeometry height="30" width="120" x="550" y="1400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

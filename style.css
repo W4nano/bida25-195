@@ -37,7 +37,8 @@ h1{
 h3{
     color:#061013;
     text-align: center;
-    font-size:xx-large;
+    font-size:large;
+    font-style: italic;
 }
 h2{
     color:#061013;
@@ -93,7 +94,6 @@ h2{
   height: 100%;
   object-fit: cover;
 }
-
 .image-and-text{
     width: 100%;
     max-width: 350px;
@@ -141,18 +141,17 @@ footer{
     display: none;
     transition: transform 0.3s ease, background-color 0.3s ease;
 }
-@media (max-width: 480px) {
+@media (max-width: 767px) {
  
     .hero-video {
         height: 40vh;
     }
  
     .box {
-        height: 210px;
+        height: 200px;
     }
  
     .navbar-brand img {
         height: 35px;
     }
-    
 }

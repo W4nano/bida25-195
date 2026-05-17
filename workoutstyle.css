@@ -68,19 +68,20 @@ h1{
 }
 .muscle-nav {
     display: flex;
-    flex-direction: row;
+    flex-wrap: wrap;
     justify-content: center;
     gap: 10px;
-    padding: 15px;
-    background-color: transparent;
-    width: fit-content;
+    width: 100%;
 }
 
 .muscle-nav a {
     text-decoration: none;
-    color: #061013;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: large;
+}
+
+.muscle-nav h2 {
+    font-size: 18px;
+    margin: 0;
+    color: black;
 }
 footer{
     background-color: #ffffff;
@@ -123,7 +124,7 @@ footer h2{
 li{
     font-size:x-large;
 }
-@media (max-width: 480px) {
+@media (max-width: 767px) {
  
     .muscle-nav a {
         font-size: 0.68rem;
@@ -132,5 +133,13 @@ li{
  
     .navbar-brand img {
         height: 35px;
+    }
+     .muscle-nav {
+        flex-direction: row;
+        padding: 10px;
+    }
+
+    .muscle-nav h2 {
+        font-size: 14px;
     }
 }
